@@ -1,0 +1,4 @@
+@EndUserText.label: 'Building Service'
+define service Zgy_building {
+  expose zgy_c_buildings as Buildings;
+}

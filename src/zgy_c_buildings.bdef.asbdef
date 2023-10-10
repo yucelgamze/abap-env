@@ -1,0 +1,9 @@
+projection;
+strict;
+
+define behavior for zgy_c_buildings alias Building
+{
+  use create;
+  use update;
+  use delete;
+}
